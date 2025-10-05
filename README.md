@@ -50,3 +50,5 @@ src/
 - Update styles in `src/index.css`
 - Configure Tailwind in `vite.config.ts`
 - Adjust ESLint rules in `eslint.config.js`
+- Configure Tailwind in `vite.config.ts`
+- Adjust ESLint rules in `eslint.config.js`
