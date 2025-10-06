@@ -27,7 +27,10 @@ A clean, modern template for building React applications with Vite and Tailwind 
 
 4. Open [http://localhost:5173](http://localhost:5173) in your browser
 
+<details>
+   <summary><h2>Screenshots</h2></summary>
 <img width="2561" height="1402" alt="image" src="https://github.com/user-attachments/assets/34a2586d-8d93-44f9-8f91-0558c70b6418" />
+</details>
 
 ## Available Scripts
 
